@@ -1,7 +1,7 @@
 # Learning Principles & Study Techniques
 ---
 
-## 📌 Question 1: What is the Feynman Technique?
+##  Question 1: What is the Feynman Technique?
 
 The Feynman Technique is a learning method that helps you understand topics deeply by explaining them in simple language.  
 You study a concept, teach it in your own words, identify gaps in your knowledge, and review weak areas.  
@@ -9,7 +9,7 @@ It improves clarity, strengthens understanding, and makes learning faster and mo
 
 ---
 
-## 📌 Question 2: Most Interesting Story or Idea
+##  Question 2: Most Interesting Story or Idea
 
 - The speaker failed math and science when she was young but later became an engineering professor.  
 - She joined the army and learned the Russian language.  
@@ -20,7 +20,7 @@ It improves clarity, strengthens understanding, and makes learning faster and mo
 
 ---
 
-## 📌 Question 3: Active and Diffused Modes of Thinking
+##  Question 3: Active and Diffused Modes of Thinking
 
 - Active (Focused) mode means concentrating deeply on one problem or topic.  
 - It is used when solving known problems or studying carefully.  
@@ -31,7 +31,7 @@ It improves clarity, strengthens understanding, and makes learning faster and mo
 
 ---
 
-## 📌 Question 4: Steps to Approach a New Topic
+##  Question 4: Steps to Approach a New Topic
 
 - Break the topic into small simple parts.  
 - Decide what you want to learn or achieve.  
@@ -42,7 +42,7 @@ It improves clarity, strengthens understanding, and makes learning faster and mo
 
 ---
 
-## 📌 Question 5: Actions to Improve Learning Process
+##  Question 5: Actions to Improve Learning Process
 
 - Work with full focus and avoid distractions.  
 - Understand concepts clearly and explain them in your own words.  
