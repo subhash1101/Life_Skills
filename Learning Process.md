@@ -3,20 +3,18 @@
 
 ##  Question 1: What is the Feynman Technique?
 
-The Feynman Technique is a learning method that helps you understand topics deeply by explaining them in simple language.  
-You study a concept, teach it in your own words, identify gaps in your knowledge, and review weak areas.  
-It improves clarity, strengthens understanding, and makes learning faster and more effective.
+The Feynman Technique tells that if you cant explain simply then you dont understand well enough. 
+It means if one cannot explain the topic he/she learned in simple terms then it means that he/she didn't understand the topic well enough.
 
 ---
 
 ##  Question 2: Most Interesting Story or Idea
 
-- The speaker failed math and science when she was young but later became an engineering professor.  
-- She joined the army and learned the Russian language.  
-- She worked as a Russian translator on ships in the Bering Sea.  
-- She went to Antarctica and met her husband there.  
-- She decided to change her brain and learn difficult subjects like math and engineering.  
-- Her story shows that anyone can improve and learn new skills with the right methods.
+- The most interesting idea for me is the technique of learning.
+- The technique of learning consists of two modes — focus mode and diffuse mode.
+- Focus mode is the state that we are in when we are doing or learning something.
+- Diffuse mode is the state that we are in when we are relaxing.
+- Dali and Edison both use this technique; when they are out of ideas, they tend to relax themselves (into the diffuse mode), which results in the generation of new thoughts and ideas.
 
 ---
 
